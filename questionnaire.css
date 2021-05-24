@@ -1,0 +1,19 @@
+.white-box {
+    background-color: lightblue;
+    color: black;
+    
+}
+body {
+    background-image: url('amazon_background.jpg');
+    text-align: center;
+    background-color: powderblue;
+    
+  }
+  h1 {
+    text-align: center;
+    color: blue;
+  }
+  p {
+    text-align: center;
+    color: red;
+  }
